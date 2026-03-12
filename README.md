@@ -1,4 +1,4 @@
-# 🌊 Glass UI Library
+# Glass UI Library
 
 Welcome to the official repository for **Glass UI**.
 (If you encounter an error please open a ticket in "Support" channel, https://discord.gg/4TsSsKCg6K )
