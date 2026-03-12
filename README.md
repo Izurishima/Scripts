@@ -47,14 +47,14 @@ Section:CreateButton({
 
 ```lua
 Section:CreateToggle({
-    Name = "Auto-Farm Test",
+    Name = "Toggle Test",
     CurrentValue = false,
     Flag = "Toggle1", -- Unique ID for this toggle
     Callback = function(Value)
         if Value then
-            print("Auto-farm enabled!")
+            print("Toggle Enabled")
         else
-            print("Auto-farm disabled!")
+            print("Toggle Disabled")
         end
     end,
 })
